@@ -1,14 +1,1 @@
-# Financial Market Analysis Platform
-
-A real-time financial market analysis platform that tracks and visualizes Nifty 500 stocks data using modern web technologies and distributed streaming architecture.
-
-## 🚀 Features
-
-- Real-time stock data tracking and visualization
-- Interactive charts and data analysis
-- Advanced filtering and sorting capabilities
-- Dark/Light mode support
-- Professional UI with responsive design
-- Distributed architecture using Kafka streams
-
-[Rest of the README content...]
+IyBGaW5hbmNpYWwgTWFya2V0IEFuYWx5c2lzIFBsYXRmb3JtCgpBIHJlYWwtdGltZSBmaW5hbmNpYWwgbWFya2V0IGFuYWx5c2lzIHBsYXRmb3JtIHRoYXQgdHJhY2tzIGFuZCB2aXN1YWxpemVzIE5pZnR5IDUwMCBzdG9ja3MgZGF0YSB1c2luZyBtb2Rlcm4gd2ViIHRlY2hub2xvZ2llcyBhbmQgZGlzdHJpYnV0ZWQgc3RyZWFtaW5nIGFyY2hpdGVjdHVyZS4KCiMjIPCfmoAgRmVhdHVyZXMKCi0gUmVhbC10aW1lIHN0b2NrIGRhdGEgdHJhY2tpbmcgYW5kIHZpc3VhbGl6YXRpb24KLSBJbnRlcmFjdGl2ZSBjaGFydHMgYW5kIGRhdGEgYW5hbHlzaXMKLSBBZHZhbmNlZCBmaWx0ZXJpbmcgYW5kIHNvcnRpbmcgY2FwYWJpbGl0aWVzCi0gRGFyay9MaWdodCBtb2RlIHN1cHBvcnQKLSBQcm9mZXNzaW9uYWwgVUkgd2l0aCByZXNwb25zaXZlIGRlc2lnbgotIERpc3RyaWJ1dGVkIGFyY2hpdGVjdHVyZSB1c2luZyBLYWZrYSBzdHJlYW1z
